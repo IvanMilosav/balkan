@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/balkan/static/css/main.9dea79ba.chunk.css",
+    "main.js": "/balkan/static/js/main.96171ab6.chunk.js",
+    "main.js.map": "/balkan/static/js/main.96171ab6.chunk.js.map",
+    "runtime-main.js": "/balkan/static/js/runtime-main.99489916.js",
+    "runtime-main.js.map": "/balkan/static/js/runtime-main.99489916.js.map",
+    "static/js/2.8f2fbb4d.chunk.js": "/balkan/static/js/2.8f2fbb4d.chunk.js",
+    "static/js/2.8f2fbb4d.chunk.js.map": "/balkan/static/js/2.8f2fbb4d.chunk.js.map",
+    "index.html": "/balkan/index.html",
+    "static/css/main.9dea79ba.chunk.css.map": "/balkan/static/css/main.9dea79ba.chunk.css.map",
+    "static/js/2.8f2fbb4d.chunk.js.LICENSE.txt": "/balkan/static/js/2.8f2fbb4d.chunk.js.LICENSE.txt",
+    "static/media/WBalkans.515828ff.png": "/balkan/static/media/WBalkans.515828ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99489916.js",
+    "static/js/2.8f2fbb4d.chunk.js",
+    "static/css/main.9dea79ba.chunk.css",
+    "static/js/main.96171ab6.chunk.js"
+  ]
+}
