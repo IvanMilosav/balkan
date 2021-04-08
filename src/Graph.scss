@@ -1,0 +1,75 @@
+.graph-container {
+  display: flex;
+  flex-direction: column;
+}
+.graph-container-s {
+  display: none;
+  flex-direction: column;
+}
+.graph-container-l {
+  display: none;
+  flex-direction: column;
+}
+.graph {
+  border-radius: 5px;
+  z-index: 2;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 30px;
+  background-color: #fff;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+}
+.graph-s {
+  border-radius: 5px;
+  z-index: 2;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 50px 15px;
+  background-color: #fff;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+}
+.graph-l {
+  border-radius: 10px;
+  z-index: 2;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 30px;
+  background-color: #fff;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+}
+.subtitle {
+  padding: 4px;
+  font-size: 20px;
+  margin: 2px;
+  z-index: 4;
+}
+.subtitle-s {
+  padding: 4px;
+  font-size: 20px;
+  margin: 2px;
+  z-index: 4;
+}
+.subtitle-l {
+  padding: 4px;
+  font-size: 40px;
+  margin: 2px;
+  z-index: 4;
+}
+@media (max-width: 1024px) {
+  .graph-container,
+  .graph-container-l {
+    display: none;
+  }
+  .graph-container-s {
+    display: flex;
+  }
+}
+@media (min-width: 1900px) {
+  .graph-container-s,
+  .graph-container {
+    display: none;
+  }
+  .graph-container-l {
+    display: flex;
+  }
+}
