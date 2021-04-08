@@ -11,6 +11,8 @@ for Western Balkans using [recharts library](https://recharts.org/en-US/api/BarC
 
 ### `Folder Structure`
 
+Very simple
+
 ### `TODO`
 
 Find better API for data.<br/>
